@@ -1,0 +1,18 @@
+Proje ekibi: Tuğba DİRMENCİ 
+Ogrenci Numarası: G201210005
+
+Amaç: kullanıcıdan alınan .dat giris ve cikis dosyaları ile giris dosyasındaki komut islemlerini 
+cikis dosyasında uygulanması ve cıktı olarak gorulmesi.
+
+içerik: Libfdr kütüphanesi 
+        deneme.c (main islemleri olan dosya)
+        .dat dosyaları 
+        makefile
+        örnek giriş ve çıkış dosyaları 
+
+Derleme: giriş ve çıkış dosyalarının girilmesi(.dat uzantılı) ve enter tuşuna basılması       
+
+Eksiklerim: Odevimde uyarılar bulunmakta fakat derlenmede sorun oluşturmuyor. 
+ uyarıları maalesef çözemedim. Teşekkür ederim.
+
+ 
